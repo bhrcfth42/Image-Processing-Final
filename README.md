@@ -26,7 +26,6 @@
 ![Final_Sayfa_6](https://user-images.githubusercontent.com/50529546/124368239-ec5a1180-dc67-11eb-968a-b9e7d5a8d76d.jpg)
 ![Final_Sayfa_7](https://user-images.githubusercontent.com/50529546/124368240-ecf2a800-dc67-11eb-87bf-22c1decef8e4.jpg)
 ![Final_Sayfa_8](https://user-images.githubusercontent.com/50529546/124368241-ed8b3e80-dc67-11eb-82d2-112c22b77142.jpg)
-![Final_Sayfa_9](https://user-images.githubusercontent.com/50529546/124368242-ee23d500-dc67-11eb-9dfd-421490645139.jpg)
 
 # İçerik PDF Dosyası
 
